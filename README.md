@@ -8,4 +8,4 @@ Features
 -Have fun:)
 (Aimbot and Esp soon)
 
-LoadString is: -- loadstring(game:HttpGet("https://github.com/glorpyglorp/Arsenal-Script-Glorp.git", true))()
+LoadString is: loadstring(game:HttpGet("https://github.com/glorpyglorp/Arsenal-Script-Glorp/raw/refs/heads/main/Arsenal-Script-Glorp.lua",true))()

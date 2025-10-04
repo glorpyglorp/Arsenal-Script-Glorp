@@ -7,3 +7,5 @@ Features
 
 -Have fun:)
 (Aimbot and Esp soon)
+
+LoadString is: -- loadstring(game:HttpGet("", true))()
